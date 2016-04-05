@@ -1,0 +1,18 @@
+{
+  "name": "sequelize_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "production": "webpack -p",
+    "start": "webpack-dev-server"
+  },
+  "author": "DJO3",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "sequelize": "^3.21.0",
+    "sequelize-auto": "^0.4.1"
+  },
+  "devDependencies": {}
+}
